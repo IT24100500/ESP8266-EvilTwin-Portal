@@ -1,7 +1,3 @@
-Here's a well-structured and attractive `README.md` for your project, designed to be used on GitHub. It highlights the project purpose, features, usage, and provides visual and technical context.
-
----
-
 # 🔥 Evil Twin WiFi Captive Portal - ESP8266
 
 <p align="center">
