@@ -29,12 +29,12 @@ This project demonstrates how to create a Wi-Fi **Evil Twin** access point on an
 
 <details>
   <summary><b>Admin Panel UI</b></summary>
-  <img src="https://i.imgur.com/YOUR_IMAGE.png" alt="Admin UI preview"/>
+  <img src="https://drive.google.com/file/d/1DISuFLV0Ek-K5RDqGzAa3qY90Z9hpXii/view?usp=drive_link" alt="Admin UI preview"/>
 </details>
 
 <details>
   <summary><b>Password Prompt Page</b></summary>
-  <img src="https://i.imgur.com/YOUR_IMAGE_2.png" alt="Password prompt"/>
+  <img src="https://drive.google.com/file/d/1xFgIXYwax4HY6TbnaaAu38Al0UwOVAt1/view?usp=drive_link" alt="Password prompt"/>
 </details>
 
 ---
