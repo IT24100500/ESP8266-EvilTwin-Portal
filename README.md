@@ -22,23 +22,7 @@ This project demonstrates how to create a Wi-Fi **Evil Twin** access point on an
 * 💣 **Deauthentication Attack** — Forces users off real AP to connect to the fake one.
 * 🔐 **Credential Capture** — Prompts for Wi-Fi password on connection.
 * 💡 **Status LED** — Shows connection activity using built-in LED.
-
 ---
-
-## 📷 Screenshots
-
-<details>
-  <summary><b>Admin Panel UI</b></summary>
-  <img src="https://drive.google.com/file/d/1DISuFLV0Ek-K5RDqGzAa3qY90Z9hpXii/view?usp=drive_link" alt="Admin UI preview"/>
-</details>
-
-<details>
-  <summary><b>Password Prompt Page</b></summary>
-  <img src="https://drive.google.com/file/d/1xFgIXYwax4HY6TbnaaAu38Al0UwOVAt1/view?usp=drive_link" alt="Password prompt"/>
-</details>
-
----
-
 ## 📦 Requirements
 
 * ESP8266 Board (e.g., NodeMCU, Wemos D1 Mini)
